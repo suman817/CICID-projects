@@ -13,4 +13,4 @@ cp /root/CICID-projects/Project-1/Tomcat/context.xml /opt/tomcat-9/webapps/host-
 cp /root/CICID-projects/Project-1/Tomcat/tomcat-users.xml /opt/tomcat-9/conf/
 echo "Start Tomcat server"
 bash /opt/tomcat-8/bin/startup.sh
-https:
+
